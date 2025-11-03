@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IoT App</string>
+    <string name="splash_screen_text">Cargando Sistema IoT...</string>
+
+    <string name="login_title">Bienvenido - Iniciar Sesión</string>
+    <string name="hint_username">Correo electrónico o Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">INICIAR SESIÓN</string>
+    <string name="btn_forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="btn_register">Crear una cuenta nueva</string>
+
+    <string name="register_title">Crear Cuenta Nueva</string>
+    <string name="hint_password_confirm">Confirma la Contraseña</string>
+    <string name="btn_confirm_register">REGISTRAR</string>
+
+    <string name="app_logo_description">Logo de la aplicación IoT</string>
+
+    <string name="recover_title">Recuperar Contraseña</string>
+    <string name="hint_email">Ingresa tu correo electrónico</string>
+    <string name="btn_send_email">ENVIAR CORREO DE RECUPERACIÓN</string>
+</resources>
